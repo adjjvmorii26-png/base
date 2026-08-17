@@ -1,5 +1,5 @@
-# base · root plate
+# base · root organ
 
-**Role:** root / base plate of SOLID ORGANISM  
+**Role:** base plate  
 **Cortex:** https://github.com/adjjvmorii26-png/ixpansion  
-**Map:** cortex `ORGANISM.md`
+**Body map:** cortex `ORGANISM.md` / `ORGANISM.json`
